@@ -1,0 +1,2 @@
+
+                this.prevMouseX=this.mouseX
